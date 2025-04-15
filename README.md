@@ -11,3 +11,12 @@ Face detection with OpenCV
 
 2-Technologies
 TensorFlow/Keras, OpenCV, Pandas, Python
+
+
+#how to use
+1.clone this repository
+2.download the dataset from here 
+3.Extract the dataset to your repositary folder
+4.open the model jupyter notebook 5. run this notebook 
+5. upload the video you want to detect
+6. view result
